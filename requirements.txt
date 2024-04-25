@@ -1,0 +1,16 @@
+pandas 
+sumolib
+shapely
+geopandas
+leafmap.kepler
+numpy
+xmltodict
+json
+tqdm 
+streamlitstreamlit==1.15.0 
+streamlit_keplergl 
+keplergl 
+streamlit_card
+pygwalker 
+streamlit_option_menu
+Pillow
