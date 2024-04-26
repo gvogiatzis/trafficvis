@@ -8,7 +8,6 @@ How to Setup dashboard:
 2) ```sh
    cd '.\multi page'
    ```
-3)```py
+3) ```py
  python streamlit run .\streamlit_app.py
-
 ```
