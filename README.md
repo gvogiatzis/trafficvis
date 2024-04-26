@@ -14,5 +14,5 @@ How to Setup dashboard:
 4)
      `\multi page\apps' ` folder contains code for different pages of the dashboard and  `\multi page\data' ` contains all data files needed for the dashboard
 
-5) `SUMO` outputs `.XML` file but the dashboard reads `CSV` files, in order to convert `XML` to `CSV` ued `xml_to_csv.ipynb`.
+5) `SUMO` outputs `.XML` file but the dashboard reads `CSV` files, in order to convert `XML` to `CSV` use `xml_to_csv.ipynb`.
   
