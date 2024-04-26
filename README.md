@@ -12,5 +12,7 @@ How to Setup dashboard:
     python streamlit run .\streamlit_app.py
    ```
 4)
-     ` sh \multi page\apps' ` 
-     folder contains code for different pages fg the dashboard and 
+     `\multi page\apps' ` folder contains code for different pages of the dashboard and  `\multi page\data' ` contains all data files needed for the dashboard
+
+5) `SUMO` outputs `.XML` file but the dashboard read `CSV` files, in order to convert `XML` to `CSV` ued `xml_to_csv.ipynb`.
+  
