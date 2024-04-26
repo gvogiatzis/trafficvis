@@ -12,7 +12,5 @@ How to Setup dashboard:
     python streamlit run .\streamlit_app.py
    ```
 4)
-     ```
-     sh \multi page\apps'
-     ``` 
+     ` sh \multi page\apps' ` 
      folder contains code for different pages fg the dashboard and 
