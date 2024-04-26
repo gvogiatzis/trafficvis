@@ -6,5 +6,9 @@ How to Setup dashboard:
 
 1) Clone the repo
 2) ```sh
-   cd 'multi page'
+   cd '.\multi page'
    ```
+3)```py
+ python streamlit run .\streamlit_app.py
+
+```
