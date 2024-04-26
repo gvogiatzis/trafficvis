@@ -9,5 +9,5 @@ How to Setup dashboard:
    cd '.\multi page'
    ```
 3) ```py
- python streamlit run .\streamlit_app.py
-```
+    python streamlit run .\streamlit_app.py
+   ```
